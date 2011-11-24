@@ -1,0 +1,1 @@
+This class parses a command line specified source file and counts the number of semicolon terminated statements.  It also counts how many levels deep the nested blocks of code progress.
